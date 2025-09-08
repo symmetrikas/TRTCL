@@ -53,10 +53,10 @@ export default {
                         <li>
                             <div class="type-title-sm">Password</div>
                             <p>{{ level.password || 'Free to Copy' }}</p>
+                        </li>
                         <li>
                             <div class="type-title-sm">Click sound and cheat indicator</div>
                             <p>{{ level.Click sound and cheat indicator || 'Not needed' }}</p>
-                        </li>
                         </li>
                     </ul>
                     <h2>Records</h2>
